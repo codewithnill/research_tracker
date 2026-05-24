@@ -16,3 +16,30 @@
 8. Lottery ticket hypothesis and pruning for efficient models (Identifying small sub-networks that perform as well as the full model, enabling lighter deployments.)
 
 9. Physics‑informed neural networks (PINNs) [ Incorporating known physical laws to guide learning for simulations and predictions in science and engineering.]
+
+
+
+
+
+
+
+
+10. Neurosymbolic AI (Combines neural networks with logic and rules so the model can reason better and explain its answers more clearly.)
+
+11. Machine Unlearning (Makes a trained model forget specific data when needed, without retraining the whole model from the start.)
+
+12. TinyML (Uses very small machine learning models that can run on tiny devices like sensors and microcontrollers.)
+
+13. Green AI (Focuses on making machine learning use less energy, less time, and less computing power.)
+
+14. Machine Teaching (Carefully chooses examples to teach a model faster and with fewer training samples.)
+
+15. AI for Space Exploration (Uses machine learning to study space data, find patterns, and help understand objects in the universe.)
+
+16. AI in Archaeology (Uses machine learning to detect and classify artifacts, sites, and patterns from images or scans.)
+
+17. AI for Sports Analytics (Studies player movement and game data to improve performance and help prevent injuries.)
+
+18. AI for Wildlife Conservation and Habitat Monitoring (Uses machine learning to count animals, track habitats, and detect threats like poaching or deforestation.)
+
+19. AI in Seismology for Earthquake Prediction (Finds patterns in seismic data to support earthquake research and early warning systems.)
