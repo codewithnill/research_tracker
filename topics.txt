@@ -1,0 +1,18 @@
+1. Hallucination detection and mitigation in LLMs (Finding and reducing false or made‑up information that LLMs sometimes produce).
+
+
+2. Multimodal reasoning with text, images, and audio (Teaching models to understand and link information across different kinds of data (pictures, captions, sounds) ).
+
+3. Privacy‑preserving distributed learning (Training models across many devices or organizations without sharing raw data.)
+
+4. Diffusion models for data generation and augmentation ( Using diffusion processes to create realistic synthetic data to improve learning when data is scarce.)
+
+5. Self‑supervised learning to learn useful representations without labels (Models learn to predict parts of data from other parts, enabling better features for downstream tasks.)
+
+6. GNNs for relational data (social networks, molecules, traffic) [Models that operate on graphs to capture relationships between entities.]
+
+7. Safe and offline reinforcement learning (Teaching agents to learn from past data safely and to operate in the real world without continuous online updates.)
+
+8. Lottery ticket hypothesis and pruning for efficient models (Identifying small sub-networks that perform as well as the full model, enabling lighter deployments.)
+
+9. Physics‑informed neural networks (PINNs) [ Incorporating known physical laws to guide learning for simulations and predictions in science and engineering.]
