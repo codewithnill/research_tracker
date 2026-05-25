@@ -1,0 +1,29 @@
+Brain tumor segmentation from MRI (Finding the exact tumor area in a brain scan. It helps doctors measure the tumor and plan treatment.)
+Source : https://scholar.google.com/scholar?q=brain+tumor+segmentation+MRI
+
+Lung nodule detection in chest CT scans (Finding small suspicious spots in the lungs. It can help detect lung cancer earlier.)
+Source : https://scholar.google.com/scholar?q=lung+nodule+detection+chest+CT
+
+Retinal disease detection from fundus images (Checking eye images for disease signs. It helps find eye problems early.)
+Source : https://scholar.google.com/scholar?q=retinal+disease+detection+fundus+images
+
+Medical image registration for aligning scans (Matching two medical images so they line up correctly. It is useful for comparing scans taken at different times.)
+Source : https://scholar.google.com/scholar?q=medical+image+registration
+
+Unsupervised anomaly detection in brain MRI (Finding unusual areas in brain scans without needing many labeled examples. It is useful when bad cases are rare.)
+Source : https://scholar.google.com/scholar?q=anomaly+detection+medical+images+brain+MRI
+
+Skin lesion classification from dermoscopic images (Looking at skin pictures and deciding if a spot may be dangerous. It can help detect skin cancer early.)
+Source : https://scholar.google.com/scholar?q=skin+lesion+classification+dermoscopic+images
+
+Automatic organ segmentation in abdominal CT scans (Separating organs like liver or kidney from the scan. It helps doctors analyze organs more easily.)
+Source : https://scholar.google.com/scholar?q=organ+segmentation+abdominal+CT
+
+Quality prediction of medical image segmentation (Checking whether a segmentation result is good or bad. It helps make AI tools more reliable.)
+Source : https://scholar.google.com/scholar?q=quality+prediction+medical+image+segmentation
+
+Pneumonia detection from chest X-rays (Using chest X-ray images to look for pneumonia. It can help doctors screen patients faster.)
+Source : https://scholar.google.com/scholar?q=pneumonia+detection+from+chest+x-ray
+
+Pulmonary embolism detection from CTPA images (Finding blood clots in lung scan images. It is important because the condition can be serious.)
+Source : https://scholar.google.com/scholar?q=pulmonary+embolism+detection+CTPA
